@@ -1,0 +1,1 @@
+Repositório referente aos Operadores Relacionais e suas particularidades
