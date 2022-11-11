@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb4a887e-19dc-4d2d-b5cc-7dd9a01c3791" name="Changes" comment="Operadores relacionais">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666723694573</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Inclusão do readme.md">
+      <created>1666725126318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666725126318</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Operadores relacionais" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operadores relacionais" />
+    <MESSAGE value="Inclusão do readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusão do readme.md" />
   </component>
 </project>
